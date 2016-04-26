@@ -1,0 +1,28 @@
+name: Avytage2
+favicon: null
+layout_spectrum: 0.6267678686417639
+typography_spectrum: 0.509519123705104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5696724341250956
+  lightness: 0.31968123372644186
+  saturation: 0.8362405351363122
+  rhythmicContrast: 0.2682800234761089
+purpose: []
